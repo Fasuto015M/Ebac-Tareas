@@ -4,3 +4,4 @@ C = 30 * 10
 print('Resultado: ', C)
 D = A * C
 E = D // B
+E
